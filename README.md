@@ -386,7 +386,6 @@ body {
   <footer id="stickyFooter">
   &copy; 2025 Haqi Premium Apps. Dibuat dengan Coding + CSS Only.
 </footer>
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
